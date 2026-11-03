@@ -68,24 +68,32 @@ SQL-Practice-Tasks/
 ├── Task8.sql    # Subqueries
 └── README.md
 ```
+### 🚀 How to Run
 
-🚀 How to Run
-Open MySQL Workbench (or any MySQL client)
-Run each task file separately
-Execute queries step by step to practice
-Each task creates its own database, so files can be run independently.
+1. Open **MySQL Workbench** (or any MySQL client)
+2. Run each task file separately
+3. Execute the queries step by step to practice
 
-🧰 Tools Used
-MySQL
-MySQL Workbench
+> Each task creates its own database, so files can be run independently.
 
-👨‍💻 Author
-Abhishek Jambhale
+---
 
-MCA Student | Aspiring Data Analyst & Data Scientist
+### 🧰 Tools Used
 
+- MySQL
+- MySQL Workbench
+
+---
+
+### 👨‍💻 Author
+
+**Abhishek Jambhale**  
+MCA Student | Aspiring Data Analyst & Data Scientist  
 📍 Pune, Maharashtra
-LinkedIn: abhishek-jambhale
-Email: abhishekjambhale.18@gmail.com
+
+- LinkedIn: [abhishek-jambhale](https://www.linkedin.com/in/abhishek-jambhale-4a3002442)
+- Email: abhishekjambhale.18@gmail.com
+
+---
 
 ⭐ Star this repository if you find it useful!
